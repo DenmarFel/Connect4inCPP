@@ -2,7 +2,7 @@
 ---
 An implementation of Connect 4 written in C++. This mini project was created to help me relax during finals week and also assist in preparation for my C++ Final.
 
-There is no graphical interface to play the game. All activity on the game is displayed on the console.
+There is no graphical interface to play the game. All game activity is displayed on the console.
 
 ### Sample Game
 ---
